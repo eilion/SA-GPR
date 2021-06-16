@@ -1,0 +1,4 @@
+mode: not_graph
+kernel: SE[SE]
+isLearn_shift: false
+max_AccRate: 3

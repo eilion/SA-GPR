@@ -1,0 +1,2 @@
+mode: not_graph
+variance: heteroscedastic
